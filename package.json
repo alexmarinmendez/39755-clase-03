@@ -1,0 +1,21 @@
+{
+  "name": "backend-clase-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-timeout.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarinmendez/39755-clase-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmarinmendez/39755-clase-03/issues"
+  },
+  "homepage": "https://github.com/alexmarinmendez/39755-clase-03#readme"
+}
