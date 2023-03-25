@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/alexmarinmendez/39755-clase-03#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "~1.6.0"
   }
 }
